@@ -1,2 +1,1 @@
-# Farming Macro Mod 1.8.9 
-## Get Good Get Macro 
+### Simplified AI modification mod focused on performance and low-level modifications to AIs in the game. Picking up the slack for the base game and improving it for a modded ecosystem. Handling common problems such as too many animals, performance hits from swarms of zombies, and simple remove tasks skipped by larger AI improvement mods.
